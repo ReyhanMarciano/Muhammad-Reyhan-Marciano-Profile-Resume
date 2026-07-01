@@ -23,7 +23,7 @@ An Agribusiness graduate from UIN Jakarta specializing in Data Analytics and Bus
 *Centralized and automated business evaluation data across 900+ branches.*
 
 #### 🖼️ Dashboard Preview
-![Kimia Farma Dashboard Performance](assets/dashboard-kf.png)
+<img src="Dashboards/Dashboard_Perfomance_Analytics_Kimia_Farma_Business_Year_2020-2023.jpg" width="50%" alt="Kimia Farma Dashboard">
 
 *   **Key Deliverables:** Integrated 4 datasets into Google BigQuery and automated profitability metrics for 2.7M+ transactions using SQL.
 *   **Business Impact:** Identified operational anomalies across 900+ branches to drive data-backed service quality improvements.
